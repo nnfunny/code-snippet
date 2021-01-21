@@ -1,9 +1,10 @@
 {
   "db": [
     {
-      "description": "The setup of pulling the content of webpage with BeautifulSoup",
       "name": "beautifulSoupSetup.py",
-      "file": "python"
+      "file": "python",
+      "description": "The setup of pulling the content of webpage with BeautifulSoup",
+      "source": "https://youtu.be/4sWfYxrKIfI?t=1671"
     } 
   ]
 }
