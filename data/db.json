@@ -1,0 +1,9 @@
+{
+  "db": [
+    {
+      "description": "The setup of pulling the content of webpage with BeautifulSoup",
+      "name": "beautifulSoupSetup",
+      "file": "python"
+    } 
+  ]
+}
