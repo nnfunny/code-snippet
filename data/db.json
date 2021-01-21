@@ -11,7 +11,8 @@
       "file": "python",
       "category": "web",
       "description": "The setup of pulling the content of webpage with BeautifulSoup",
-      "source": "https://youtu.be/4sWfYxrKIfI?t=1671"
+      "source": "https://youtu.be/4sWfYxrKIfI?t=1671", 
+      "link": "https://raw.githubusercontent.com/nnfunny/code-snippet/main/python/web/beautifulSoupSetup.py"
     } 
   ]
 }
