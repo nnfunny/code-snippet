@@ -1,9 +1,11 @@
 {
   "filetype": [
-    "python"
+    "python",
+    "java"
   ],
   "category": [
-    "web"
+    "web",
+    "game dev"
   ],
   "db": [
     {
@@ -13,6 +15,14 @@
       "description": "The setup of pulling the content of webpage with BeautifulSoup",
       "source": "https://youtu.be/4sWfYxrKIfI?t=1671", 
       "link": "https://raw.githubusercontent.com/nnfunny/code-snippet/main/python/web/beautifulSoupSetup.py"
+    },
+    {
+      "name": "GameCycle.java",
+      "file": "java",
+      "category": "game dev",
+      "description": "The game cycle implementation with Canvas",
+      "source": "https://youtu.be/SKFNouTFgto", 
+      "link": ""
     } 
   ]
 }
