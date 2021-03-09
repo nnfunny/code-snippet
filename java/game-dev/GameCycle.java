@@ -1,3 +1,7 @@
+//  Description: The game cycle implementation with Canvas
+//  Reference: https://youtu.be/SKFNouTFgto
+//  Date: 09/03/2021
+
 import java.awt.*;
 
 public class GameCycle extends Canvas implements Runnable {
@@ -43,7 +47,7 @@ public class GameCycle extends Canvas implements Runnable {
       delta += now - lastTime;
       lastTime = now;
 
-      while (delta >= NS_PER_SECOND) {
+      while (delta >= NS_PER_TICK) {
         tick();
         ticks++;
         delta -= NS_PER_TICK;
@@ -73,7 +77,6 @@ public class GameCycle extends Canvas implements Runnable {
   }
 
   private void tick() {
-    // Updates the game
   }
 
   private void render() {
